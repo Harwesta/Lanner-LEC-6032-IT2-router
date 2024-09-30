@@ -1,9 +1,9 @@
 # Lanner-LEC-6032-IT2-router
 Openwrt for Lanner LEC-6032-IT2 router (aka VipNet terminal)
 
-Based on VipNet 1000th series terminal.
+Based on VipNet 1000th series terminal, motherboard LEB-3032Z.
 
-CPU: Intel Celeron N2807 dual-core up to 1.2GHz.
+CPU: Intel Celeron N2807 dual-core Bay Trail-M 1.6...2.2GHz 
 RAM: one slot up to 4Gb SODIMM DDR3L.
 Storage: 2-channel SATA. Primary miniPCIE Half-size mSATA SSD, secondary 2.5" SATA SSD/HDD от top cover.
 Network: x4 onboard 10/100/1000 Ethernet RJ45 Intel i211 (LAN1-LAN4) + x1 Intel i210 SFP slot.
